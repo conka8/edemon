@@ -1,0 +1,18 @@
+{
+  "name": "Edenverse — Baby Edemon (Collection)",
+  "symbol": "EDEMON",
+  "description": "The official collection NFT for Hatched Baby Edemon. 400 unique base species × 100 aesthetic variations each; rarities: Common 50×, Uncommon 30×, Rare 15× (shiny), Epic 4× (shiny), Legendary 1× (opalescent).",
+  "image": "https://i.ibb.co/qhq4Vsy/edemon.png",
+  "external_url": "https://edenverse.online/",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "Collection Type", "value": "Baby Edemon" },
+    { "trait_type": "Unique Bases", "value": "400" },
+    { "trait_type": "Variations per Base", "value": "100" }
+  ],
+  "collection": { "name": "Edenverse — Baby Edemon", "family": "Edenverse" },
+  "properties": {
+    "category": "image",
+    "files": [{ "uri": "https://i.ibb.co/qhq4Vsy/edemon.png", "type": "image/png" }]
+  }
+}
