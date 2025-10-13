@@ -1,0 +1,19 @@
+{
+  "name": "Eden Egg #E-000001",
+  "symbol": "EGG",
+  "description": "A mysterious Eden Egg. Hatches into 1 Baby Edemon.",
+  "image": "https://i.ibb.co/VpJjXNTc/egg.png",
+  "external_url": "https://edenverse.online/",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "Type", "value": "Egg" },
+    { "trait_type": "Status", "value": "Unhatched" },
+    { "trait_type": "Element", "value": "FIRE" },
+    { "trait_type": "Series", "value": "Gen 1" }
+  ],
+  "collection": { "name": "Edenverse — Eggs", "family": "Edenverse" },
+  "properties": {
+    "category": "image",
+    "files": [{ "uri": "https://i.ibb.co/VpJjXNTc/egg.png", "type": "image/png" }]
+  }
+}
