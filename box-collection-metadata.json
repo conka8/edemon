@@ -1,0 +1,17 @@
+{
+  "name": "Edenverse — Boxes (Collection)",
+  "symbol": "EDBOX",
+  "description": "The official collection NFT for Unopened Boxes in Edenverse. Boxes can be unboxed to create 10 Eggs.",
+  "image": "https://i.ibb.co/4nH7sQV3/box.png",
+  "external_url": "https://edenverse.online/",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "Collection Type", "value": "Boxes" },
+    { "trait_type": "Supply", "value": "4,000 Boxes (each yields 10 Eggs)" }
+  ],
+  "collection": { "name": "Edenverse — Boxes", "family": "Edenverse" },
+  "properties": {
+    "category": "image",
+    "files": [{ "uri": "https://i.ibb.co/4nH7sQV3/box.png", "type": "image/png" }]
+  }
+}
