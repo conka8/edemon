@@ -1,0 +1,23 @@
+{
+  "name": "Baby Edemon #B-000001 — Pyrelit",
+  "symbol": "EDEMON",
+  "description": "A newly hatched Baby Edemon from Edenverse. Traits are initially aesthetic and may gain gameplay stats as the ecosystem evolves.",
+  "image": "https://i.ibb.co/qhq4Vsy/edemon.png",
+  "external_url": "https://edenverse.online/",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "Type", "value": "Baby Edemon" },
+    { "trait_type": "Element", "value": "FIRE" },
+    { "trait_type": "Base Species", "value": "Pyrelit" },
+    { "trait_type": "Variation", "value": "37 / 100" },
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Finish", "value": "Shiny" },
+    { "trait_type": "Palette", "value": "Crimson Glow" },
+    { "trait_type": "Series", "value": "Gen 1" }
+  ],
+  "collection": { "name": "Edenverse — Baby Edemon", "family": "Edenverse" },
+  "properties": {
+    "category": "image",
+    "files": [{ "uri": "https://i.ibb.co/qhq4Vsy/edemon.png", "type": "image/png" }]
+  }
+}
