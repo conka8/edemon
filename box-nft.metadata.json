@@ -1,0 +1,19 @@
+{
+  "name": "Eden Box #0001",
+  "symbol": "BOX",
+  "description": "An unopened Eden Box. Unbox to mint 10 Eggs.",
+  "image": "https://i.ibb.co/4nH7sQV3/box.png",
+  "external_url": "https://edenverse.online/",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "Type", "value": "Box" },
+    { "trait_type": "Status", "value": "Unopened" },
+    { "trait_type": "Contains Eggs", "value": "10" },
+    { "trait_type": "Series", "value": "Gen 1" }
+  ],
+  "collection": { "name": "Edenverse — Boxes", "family": "Edenverse" },
+  "properties": {
+    "category": "image",
+    "files": [{ "uri": "https://i.ibb.co/4nH7sQV3/box.png", "type": "image/png" }]
+  }
+}
