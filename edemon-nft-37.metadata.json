@@ -1,5 +1,5 @@
-﻿{
-  "name": "Baby Edemon #B-000001 â€” Pyrelit",
+{
+  "name": "Baby Edemon",
   "symbol": "EDEMON",
   "description": "A newly hatched Baby Edemon from Edenverse. Traits are initially aesthetic and may gain gameplay stats as the ecosystem evolves.",
   "image": "https://crimson-impressive-grouse-655.mypinata.cloud/ipfs/bafkreibttgebs2icwlxmtru2stixmflu7gixmxpgeqecj6rb3rcgpbv5zu?pinataGatewayToken=eiYPC_G-j7E-XG61tbsQqxmrxXjX1e5N9pFAi5SSSX33mTHUfFBtJaVHvyOZ7BlB",
@@ -15,7 +15,7 @@
     { "trait_type": "Palette", "value": "Crimson Glow" },
     { "trait_type": "Series", "value": "Gen 1" }
   ],
-  "collection": { "name": "Edenverse â€” Baby Edemon", "family": "Edenverse" },
+  "collection": { "name": "Edenverse — Baby Edemon", "family": "Edenverse" },
   "properties": {
     "category": "image",
     "files": [
