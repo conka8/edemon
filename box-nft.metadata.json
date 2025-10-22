@@ -2,7 +2,7 @@
   "name": "Eden Box #0001",
   "symbol": "BOX",
   "description": "An unopened Eden Box. Unbox to mint 10 Eggs.",
-  "image": "https://i.ibb.co/4nH7sQV3/box.png",
+  "image": "https://crimson-impressive-grouse-655.mypinata.cloud/ipfs/bafybeiftobqcqatj63av2w2mmxbj7rrimmh3p7yzi7fc2uibhlsqviuzra?pinataGatewayToken=eiYPC_G-j7E-XG61tbsQqxmrxXjX1e5N9pFAi5SSSX33mTHUfFBtJaVHvyOZ7BlB",
   "external_url": "https://edenverse.online/",
   "seller_fee_basis_points": 500,
   "attributes": [
@@ -14,6 +14,6 @@
   "collection": { "name": "Edenverse — Boxes", "family": "Edenverse" },
   "properties": {
     "category": "image",
-    "files": [{ "uri": "https://i.ibb.co/4nH7sQV3/box.png", "type": "image/png" }]
+    "files": [{ "uri": "https://crimson-impressive-grouse-655.mypinata.cloud/ipfs/bafybeiftobqcqatj63av2w2mmxbj7rrimmh3p7yzi7fc2uibhlsqviuzra?pinataGatewayToken=eiYPC_G-j7E-XG61tbsQqxmrxXjX1e5N9pFAi5SSSX33mTHUfFBtJaVHvyOZ7BlB", "type": "image/png" }]
   }
 }

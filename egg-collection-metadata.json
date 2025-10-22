@@ -2,7 +2,7 @@
   "name": "Edenverse — Eggs (Collection)",
   "symbol": "EDEGG",
   "description": "The official collection NFT for Unhatched Eggs in Edenverse. Each egg hatches into 1 Baby Edemon.",
-  "image": "https://i.ibb.co/VpJjXNTc/egg.png",
+  "image": "https://crimson-impressive-grouse-655.mypinata.cloud/ipfs/bafybeied4cgjfk3utm42rzx74quhneeuirilwxl43dice4lvglg7ujkngi?pinataGatewayToken=eiYPC_G-j7E-XG61tbsQqxmrxXjX1e5N9pFAi5SSSX33mTHUfFBtJaVHvyOZ7BlB",
   "external_url": "https://edenverse.online/",
   "seller_fee_basis_points": 500,
   "attributes": [
@@ -13,6 +13,6 @@
   "collection": { "name": "Edenverse — Eggs", "family": "Edenverse" },
   "properties": {
     "category": "image",
-    "files": [{ "uri": "https://i.ibb.co/VpJjXNTc/egg.png", "type": "image/png" }]
+    "files": [{ "uri": "https://crimson-impressive-grouse-655.mypinata.cloud/ipfs/bafybeied4cgjfk3utm42rzx74quhneeuirilwxl43dice4lvglg7ujkngi?pinataGatewayToken=eiYPC_G-j7E-XG61tbsQqxmrxXjX1e5N9pFAi5SSSX33mTHUfFBtJaVHvyOZ7BlB", "type": "image/png" }]
   }
 }
